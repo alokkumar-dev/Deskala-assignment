@@ -38,7 +38,7 @@ form > div > label {
 }
 .formButtons {
   position: absolute;
-  right: 0;
+  right: 3%;
   gap: 20px;
   bottom: 10px;
   display: flex;
